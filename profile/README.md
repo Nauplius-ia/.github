@@ -1,12 +1,16 @@
-## Hi there 👋
+<h1 align="center">Bem vindos ao Nauplius, soluções inteligentes para larvicultura de precisão 🦐</h1>
 
-<!--
+<br>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+A Nauplius é uma startup fundada por alunos e professores dos cursos de Ciências
+da Computação e Engenharia de Aquicultura no IFCE campus Aracati. Nossa missão é
+revolucionar a indústria da aquicultura, tornando-a mais eficiente e tecnologicamente avançada
+para a produção de camarão. Nesta indústria, a avaliação da quantidade de animais saudáveis
+em uma cultura é uma atividade chave. Atualmente, esse processo é realizado de forma
+manual. Uma amostra é retirada do tanque e as larvas são contabilizadas visualmente em uma
+placa de petri. Esse método é demorado, enfadonho e sujeito a erros. Estamos desenvolvendo
+um aplicativo inovador que utiliza tecnologia de inteligência artificial para contar
+automaticamente a quantidade de camarões na fase larval (náuplios) em uma amostra e
+estimar a quantidade total contida em um tanque. Com nossa solução, os produtores poderão
+economizar tempo e acompanhar a contagem de animais com maior frequência, além de obter
+resultados mais precisos.
