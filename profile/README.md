@@ -14,3 +14,11 @@ automaticamente a quantidade de camarões na fase larval (náuplios) em uma amos
 estimar a quantidade total contida em um tanque. Com nossa solução, os produtores poderão
 economizar tempo e acompanhar a contagem de animais com maior frequência, além de obter
 resultados mais precisos.
+
+<br>
+
+<div align="center"> 
+  <a href="https://www.instagram.com/nauplius.ia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/company/nauplius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
