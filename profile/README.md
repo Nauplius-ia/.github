@@ -7,13 +7,9 @@ da Computação e Engenharia de Aquicultura no IFCE campus Aracati. Nossa missã
 revolucionar a indústria da aquicultura, tornando-a mais eficiente e tecnologicamente avançada
 para a produção de camarão. Nesta indústria, a avaliação da quantidade de animais saudáveis
 em uma cultura é uma atividade chave. Atualmente, esse processo é realizado de forma
-manual. Uma amostra é retirada do tanque e as larvas são contabilizadas visualmente em uma
-placa de petri. Esse método é demorado, enfadonho e sujeito a erros. Estamos desenvolvendo
-um aplicativo inovador que utiliza tecnologia de inteligência artificial para contar
-automaticamente a quantidade de camarões na fase larval (náuplios) em uma amostra e
-estimar a quantidade total contida em um tanque. Com nossa solução, os produtores poderão
-economizar tempo e acompanhar a contagem de animais com maior frequência, além de obter
-resultados mais precisos.
+manual e enfadonha. Nossa missão é trazer a solução de forma automática, prática e em questão de segundos. 
+Nosso produto ajuda produtores de camarão que trabalham com as fases de náuplios e pós larvas,
+no qual precisam de maior lucratividade para seu negócio.
 
 <br>
 
